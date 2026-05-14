@@ -24,7 +24,7 @@ IT Professional with a focus on high-availability infrastructure. I bridge the g
 
 ### 🚀 Featured Engineering Projects (R&D)
 
-#### 📂 [Automated Infrastructure Workflow](https://github.com/Angetoh/Proxmox-Automation-IaC)
+#### 📂 [Automated Infrastructure Workflow](https://github.com/Angetoh?tab=repositories)
 > **Challenge:** Manual VM provisioning was slow and prone to configuration drift.
 > 
 > **Solution:** Implemented a **Gold Image** strategy. Developed a full pipeline using **Terraform** for resource orchestration on Proxmox and **Ansible** for idempotent configuration.
